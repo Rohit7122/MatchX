@@ -2,6 +2,7 @@
 
 A high-performance cryptocurrency trading platform with a matching engine backend and real-time trading interface.
 
+<img width="1908" height="995" alt="image" src="https://github.com/user-attachments/assets/92b29055-5185-4483-8430-00f3dafffcf4" />
 
 
 ## System Architecture
@@ -98,5 +99,6 @@ Backend logs are available in:
 ## API Documentation
 
 Visit http://localhost:8000/docs after starting the backend server for interactive API documentation.
+
 
 
